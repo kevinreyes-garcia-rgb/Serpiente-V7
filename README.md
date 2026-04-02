@@ -15,10 +15,21 @@ Hola este es un juegito, bueno recreacion del juego de la viborita
 | **Lead Dev** | [Cuervita](https://github.com/rezemd56-hash/) |
 | **Desarrollador++ | [Klee](https://github.com/kevinreyes-garcia-rgb/) |
 
-## Instalacion 
+<details>
+   <summary>Instalacion</summary>
 
-1. **Clonar el repositorio:**
-   ```bash
-   https://kevinreyes-garcia-rgb.github.io/Serpiente-V4/
+[Link Directo]( https://kevinreyes-garcia-rgb.github.io/Serpiente-V4/)
 
-[Snake](https://kevinreyes-garcia-rgb.github.io/Serpiente-V4/)
+Link Copihable 
+```
+ https://kevinreyes-garcia-rgb.github.io/Serpiente-V4/
+ ```
+   
+</details>
+
+<details>
+   <summary>Pagina Oficial</summary>
+
+[Snake-V1.3](https://github.com/rezemd56-hash/Snake-V1.3)
+   
+</details>
